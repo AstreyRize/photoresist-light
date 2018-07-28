@@ -1,0 +1,2 @@
+main DSTACK_USAGE:1 DSTACK_LEVEL:1 FILE:"PhotoresistLight.c" LINE:147
+ext_int0_isr DSTACK_USAGE:5 DSTACK_LEVEL:6 FILE:"PhotoresistLight.c" LINE:114
